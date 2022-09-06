@@ -11,13 +11,13 @@ const nuevoBool = null;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
-
+//es una prueba
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * null === 40 ;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
-
+//esto es una prueba jejejejejeje comida china
 
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
